@@ -22,10 +22,10 @@ I am always open for collaboration, if you find any of my work interesting pleas
 
 <p>
   <a href="https://www.instagram.com/elio_haddadd/">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style&style=for-the-badge" />
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style&style=for-the-badge&theme=blue-green&show_icons=true" />
   </a>
     <a href="https://www.linkedin.com/in/elio-haddad-1ba0ab160/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5?logo=LinkedIn&logoColor=white&style&style=for-the-badge" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5?logo=LinkedIn&logoColor=white&style&style=for-the-badge&theme=blue-green&show_icons=true" />
   </a>
  </p>
  
