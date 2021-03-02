@@ -22,10 +22,10 @@ I am always open for collaboration, if you find any of my work interesting pleas
 
 <p>
   <a href="https://www.instagram.com/elio_haddadd/">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style&style=for-the-badge&theme=blue-green&show_icons=true" />
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style&style=for-the-badge" />
   </a>
     <a href="https://www.linkedin.com/in/elio-haddad-1ba0ab160/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5?logo=LinkedIn&logoColor=white&style&style=for-the-badge&theme=blue-green&show_icons=true" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5?logo=LinkedIn&logoColor=white&style&style=for-the-badge" />
   </a>
  </p>
  
@@ -33,5 +33,5 @@ I am always open for collaboration, if you find any of my work interesting pleas
  
  ### Github stats
  
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=elioh98&count_private=true&title_color=FD9047&icon_color=0c2233&custom_title=Elio's+Github+Stats" />
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elioh98" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=elioh98&count_private=true&title_color=FD9047&icon_color=0c2233&custom_title=Elio's+Github+Stats&theme=blue-green" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elioh98&theme=blue-green" />
